@@ -1,8 +1,10 @@
 public class test123{
 	
     public static void main(String args[]){
-	System.out.println("Hello from Sidhesh");
-    }
+	if(true){
+		System.out.println("Hello from Sidhesh");
+    		}
+	}
 
 
 }
